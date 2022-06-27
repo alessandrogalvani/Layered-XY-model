@@ -1,0 +1,1 @@
+se L=30 fa circa 6 volte 200k sweeps in 12 ore, cioè 100k sweep all'ora
